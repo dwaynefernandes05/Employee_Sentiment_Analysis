@@ -1,0 +1,722 @@
+{
+  "2010-01": {
+    "top_positive": [
+      {
+        "employee": "kayne.coulter",
+        "monthly_score": 14
+      },
+      {
+        "employee": "eric.bass",
+        "monthly_score": 9
+      },
+      {
+        "employee": "lydia.delgado",
+        "monthly_score": 9
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 1
+      },
+      {
+        "employee": "rhonda.denton",
+        "monthly_score": 1
+      },
+      {
+        "employee": "sally.beck",
+        "monthly_score": 2
+      }
+    ]
+  },
+  "2010-02": {
+    "top_positive": [
+      {
+        "employee": "john.arnold",
+        "monthly_score": 12
+      },
+      {
+        "employee": "johnny.palmer",
+        "monthly_score": 10
+      },
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 8
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "kayne.coulter",
+        "monthly_score": 1
+      },
+      {
+        "employee": "lydia.delgado",
+        "monthly_score": 1
+      },
+      {
+        "employee": "patti.thompson",
+        "monthly_score": 1
+      }
+    ]
+  },
+  "2010-03": {
+    "top_positive": [
+      {
+        "employee": "sally.beck",
+        "monthly_score": 11
+      },
+      {
+        "employee": "john.arnold",
+        "monthly_score": 7
+      },
+      {
+        "employee": "eric.bass",
+        "monthly_score": 6
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "rhonda.denton",
+        "monthly_score": 1
+      },
+      {
+        "employee": "don.baughman",
+        "monthly_score": 2
+      },
+      {
+        "employee": "kayne.coulter",
+        "monthly_score": 3
+      }
+    ]
+  },
+  "2010-04": {
+    "top_positive": [
+      {
+        "employee": "don.baughman",
+        "monthly_score": 9
+      },
+      {
+        "employee": "kayne.coulter",
+        "monthly_score": 9
+      },
+      {
+        "employee": "john.arnold",
+        "monthly_score": 8
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "eric.bass",
+        "monthly_score": 2
+      },
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 3
+      },
+      {
+        "employee": "sally.beck",
+        "monthly_score": 3
+      }
+    ]
+  },
+  "2010-05": {
+    "top_positive": [
+      {
+        "employee": "don.baughman",
+        "monthly_score": 16
+      },
+      {
+        "employee": "patti.thompson",
+        "monthly_score": 7
+      },
+      {
+        "employee": "eric.bass",
+        "monthly_score": 6
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "johnny.palmer",
+        "monthly_score": 1
+      },
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 3
+      },
+      {
+        "employee": "john.arnold",
+        "monthly_score": 3
+      }
+    ]
+  },
+  "2010-06": {
+    "top_positive": [
+      {
+        "employee": "don.baughman",
+        "monthly_score": 10
+      },
+      {
+        "employee": "john.arnold",
+        "monthly_score": 10
+      },
+      {
+        "employee": "patti.thompson",
+        "monthly_score": 8
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "eric.bass",
+        "monthly_score": 1
+      },
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 2
+      },
+      {
+        "employee": "kayne.coulter",
+        "monthly_score": 2
+      }
+    ]
+  },
+  "2010-07": {
+    "top_positive": [
+      {
+        "employee": "eric.bass",
+        "monthly_score": 16
+      },
+      {
+        "employee": "lydia.delgado",
+        "monthly_score": 12
+      },
+      {
+        "employee": "sally.beck",
+        "monthly_score": 9
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "patti.thompson",
+        "monthly_score": 1
+      },
+      {
+        "employee": "don.baughman",
+        "monthly_score": 2
+      },
+      {
+        "employee": "johnny.palmer",
+        "monthly_score": 2
+      }
+    ]
+  },
+  "2010-08": {
+    "top_positive": [
+      {
+        "employee": "sally.beck",
+        "monthly_score": 16
+      },
+      {
+        "employee": "rhonda.denton",
+        "monthly_score": 10
+      },
+      {
+        "employee": "john.arnold",
+        "monthly_score": 7
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "patti.thompson",
+        "monthly_score": 1
+      },
+      {
+        "employee": "don.baughman",
+        "monthly_score": 2
+      },
+      {
+        "employee": "eric.bass",
+        "monthly_score": 2
+      }
+    ]
+  },
+  "2010-09": {
+    "top_positive": [
+      {
+        "employee": "eric.bass",
+        "monthly_score": 11
+      },
+      {
+        "employee": "patti.thompson",
+        "monthly_score": 8
+      },
+      {
+        "employee": "john.arnold",
+        "monthly_score": 6
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "kayne.coulter",
+        "monthly_score": 2
+      },
+      {
+        "employee": "don.baughman",
+        "monthly_score": 3
+      },
+      {
+        "employee": "lydia.delgado",
+        "monthly_score": 4
+      }
+    ]
+  },
+  "2010-10": {
+    "top_positive": [
+      {
+        "employee": "johnny.palmer",
+        "monthly_score": 12
+      },
+      {
+        "employee": "lydia.delgado",
+        "monthly_score": 12
+      },
+      {
+        "employee": "patti.thompson",
+        "monthly_score": 9
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "kayne.coulter",
+        "monthly_score": 0
+      },
+      {
+        "employee": "don.baughman",
+        "monthly_score": 1
+      },
+      {
+        "employee": "rhonda.denton",
+        "monthly_score": 1
+      }
+    ]
+  },
+  "2010-11": {
+    "top_positive": [
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 9
+      },
+      {
+        "employee": "john.arnold",
+        "monthly_score": 8
+      },
+      {
+        "employee": "patti.thompson",
+        "monthly_score": 8
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "johnny.palmer",
+        "monthly_score": 1
+      },
+      {
+        "employee": "kayne.coulter",
+        "monthly_score": 4
+      },
+      {
+        "employee": "don.baughman",
+        "monthly_score": 5
+      }
+    ]
+  },
+  "2010-12": {
+    "top_positive": [
+      {
+        "employee": "john.arnold",
+        "monthly_score": 16
+      },
+      {
+        "employee": "don.baughman",
+        "monthly_score": 13
+      },
+      {
+        "employee": "lydia.delgado",
+        "monthly_score": 10
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "johnny.palmer",
+        "monthly_score": 1
+      },
+      {
+        "employee": "patti.thompson",
+        "monthly_score": 1
+      },
+      {
+        "employee": "eric.bass",
+        "monthly_score": 2
+      }
+    ]
+  },
+  "2011-01": {
+    "top_positive": [
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 10
+      },
+      {
+        "employee": "eric.bass",
+        "monthly_score": 9
+      },
+      {
+        "employee": "johnny.palmer",
+        "monthly_score": 9
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "kayne.coulter",
+        "monthly_score": 1
+      },
+      {
+        "employee": "john.arnold",
+        "monthly_score": 2
+      },
+      {
+        "employee": "don.baughman",
+        "monthly_score": 3
+      }
+    ]
+  },
+  "2011-02": {
+    "top_positive": [
+      {
+        "employee": "john.arnold",
+        "monthly_score": 16
+      },
+      {
+        "employee": "lydia.delgado",
+        "monthly_score": 15
+      },
+      {
+        "employee": "johnny.palmer",
+        "monthly_score": 9
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "eric.bass",
+        "monthly_score": -1
+      },
+      {
+        "employee": "don.baughman",
+        "monthly_score": 0
+      },
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 2
+      }
+    ]
+  },
+  "2011-03": {
+    "top_positive": [
+      {
+        "employee": "patti.thompson",
+        "monthly_score": 14
+      },
+      {
+        "employee": "rhonda.denton",
+        "monthly_score": 11
+      },
+      {
+        "employee": "john.arnold",
+        "monthly_score": 9
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "johnny.palmer",
+        "monthly_score": 0
+      },
+      {
+        "employee": "don.baughman",
+        "monthly_score": 1
+      },
+      {
+        "employee": "eric.bass",
+        "monthly_score": 4
+      }
+    ]
+  },
+  "2011-04": {
+    "top_positive": [
+      {
+        "employee": "lydia.delgado",
+        "monthly_score": 13
+      },
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 10
+      },
+      {
+        "employee": "eric.bass",
+        "monthly_score": 8
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "sally.beck",
+        "monthly_score": 0
+      },
+      {
+        "employee": "john.arnold",
+        "monthly_score": 2
+      },
+      {
+        "employee": "rhonda.denton",
+        "monthly_score": 3
+      }
+    ]
+  },
+  "2011-05": {
+    "top_positive": [
+      {
+        "employee": "lydia.delgado",
+        "monthly_score": 20
+      },
+      {
+        "employee": "john.arnold",
+        "monthly_score": 9
+      },
+      {
+        "employee": "don.baughman",
+        "monthly_score": 8
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 1
+      },
+      {
+        "employee": "kayne.coulter",
+        "monthly_score": 1
+      },
+      {
+        "employee": "patti.thompson",
+        "monthly_score": 1
+      }
+    ]
+  },
+  "2011-06": {
+    "top_positive": [
+      {
+        "employee": "eric.bass",
+        "monthly_score": 16
+      },
+      {
+        "employee": "johnny.palmer",
+        "monthly_score": 13
+      },
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 9
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "kayne.coulter",
+        "monthly_score": -1
+      },
+      {
+        "employee": "don.baughman",
+        "monthly_score": 2
+      },
+      {
+        "employee": "sally.beck",
+        "monthly_score": 2
+      }
+    ]
+  },
+  "2011-07": {
+    "top_positive": [
+      {
+        "employee": "patti.thompson",
+        "monthly_score": 15
+      },
+      {
+        "employee": "sally.beck",
+        "monthly_score": 10
+      },
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 7
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "lydia.delgado",
+        "monthly_score": -1
+      },
+      {
+        "employee": "kayne.coulter",
+        "monthly_score": 1
+      },
+      {
+        "employee": "don.baughman",
+        "monthly_score": 3
+      }
+    ]
+  },
+  "2011-08": {
+    "top_positive": [
+      {
+        "employee": "john.arnold",
+        "monthly_score": 12
+      },
+      {
+        "employee": "lydia.delgado",
+        "monthly_score": 12
+      },
+      {
+        "employee": "johnny.palmer",
+        "monthly_score": 8
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "kayne.coulter",
+        "monthly_score": 1
+      },
+      {
+        "employee": "rhonda.denton",
+        "monthly_score": 1
+      },
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 2
+      }
+    ]
+  },
+  "2011-09": {
+    "top_positive": [
+      {
+        "employee": "kayne.coulter",
+        "monthly_score": 12
+      },
+      {
+        "employee": "don.baughman",
+        "monthly_score": 9
+      },
+      {
+        "employee": "rhonda.denton",
+        "monthly_score": 9
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "sally.beck",
+        "monthly_score": 0
+      },
+      {
+        "employee": "john.arnold",
+        "monthly_score": 1
+      },
+      {
+        "employee": "lydia.delgado",
+        "monthly_score": 6
+      }
+    ]
+  },
+  "2011-10": {
+    "top_positive": [
+      {
+        "employee": "lydia.delgado",
+        "monthly_score": 11
+      },
+      {
+        "employee": "john.arnold",
+        "monthly_score": 10
+      },
+      {
+        "employee": "don.baughman",
+        "monthly_score": 9
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 0
+      },
+      {
+        "employee": "rhonda.denton",
+        "monthly_score": 0
+      },
+      {
+        "employee": "johnny.palmer",
+        "monthly_score": 2
+      }
+    ]
+  },
+  "2011-11": {
+    "top_positive": [
+      {
+        "employee": "kayne.coulter",
+        "monthly_score": 15
+      },
+      {
+        "employee": "john.arnold",
+        "monthly_score": 10
+      },
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 9
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "eric.bass",
+        "monthly_score": 1
+      },
+      {
+        "employee": "rhonda.denton",
+        "monthly_score": 2
+      },
+      {
+        "employee": "lydia.delgado",
+        "monthly_score": 4
+      }
+    ]
+  },
+  "2011-12": {
+    "top_positive": [
+      {
+        "employee": "eric.bass",
+        "monthly_score": 12
+      },
+      {
+        "employee": "patti.thompson",
+        "monthly_score": 12
+      },
+      {
+        "employee": "lydia.delgado",
+        "monthly_score": 10
+      }
+    ],
+    "top_negative": [
+      {
+        "employee": "johnny.palmer",
+        "monthly_score": 1
+      },
+      {
+        "employee": "bobette.riner",
+        "monthly_score": 3
+      },
+      {
+        "employee": "john.arnold",
+        "monthly_score": 4
+      }
+    ]
+  }
+}

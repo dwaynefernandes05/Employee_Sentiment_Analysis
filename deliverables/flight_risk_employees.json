@@ -1,0 +1,26 @@
+[
+  {
+    "employee": "eric.bass",
+    "window_start": "2011-04-22",
+    "window_end": "2011-05-17",
+    "negative_count": 4
+  },
+  {
+    "employee": "johnny.palmer",
+    "window_start": "2010-02-09",
+    "window_end": "2010-03-10",
+    "negative_count": 4
+  },
+  {
+    "employee": "patti.thompson",
+    "window_start": "2011-07-01",
+    "window_end": "2011-07-20",
+    "negative_count": 4
+  },
+  {
+    "employee": "sally.beck",
+    "window_start": "2011-08-06",
+    "window_end": "2011-08-25",
+    "negative_count": 5
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "dataset_info": {
+    "total_records": 2191,
+    "date_range": "2010-01-01 00:00:00 to 2011-12-31 00:00:00",
+    "unique_employees": 10
+  },
+  "sentiment_distribution": {
+    "Positive": 1574,
+    "Neutral": 454,
+    "Negative": 163
+  },
+  "top_3_positive_overall": [
+    {
+      "employee": "lydia.delgado",
+      "monthly_score": 189
+    },
+    {
+      "employee": "john.arnold",
+      "monthly_score": 182
+    },
+    {
+      "employee": "patti.thompson",
+      "monthly_score": 147
+    }
+  ],
+  "top_3_negative_overall": [
+    {
+      "employee": "kayne.coulter",
+      "monthly_score": 109
+    },
+    {
+      "employee": "rhonda.denton",
+      "monthly_score": 114
+    },
+    {
+      "employee": "bobette.riner",
+      "monthly_score": 126
+    }
+  ],
+  "flight_risk_count": 4,
+  "flight_risks": [
+    "eric.bass",
+    "johnny.palmer",
+    "patti.thompson",
+    "sally.beck"
+  ],
+  "model_performance": {
+    "train_r2": 0.9431073367497147,
+    "test_r2": 0.9103486032740186,
+    "train_mse": 0.9782485407393556,
+    "test_mse": 1.0532482667442993,
+    "train_mae": 0.7248739145184269,
+    "test_mae": 0.7431110621742922
+  }
+}

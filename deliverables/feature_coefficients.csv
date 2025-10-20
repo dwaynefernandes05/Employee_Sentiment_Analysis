@@ -1,0 +1,16 @@
+feature,coefficient
+message_frequency,4.070566457929711
+negative_ratio,-1.133214861905278
+neutral_ratio,-0.9580474577909386
+max_word_count,-0.519471554883088
+std_message_length,0.4818768343715622
+length_frequency_ratio,-0.42244967039510745
+min_word_count,0.35846424836242075
+avg_message_length,0.15492818700747463
+max_message_length,-0.11263943995694495
+min_message_length,-0.05741118429218082
+prev_month_frequency,-0.04688830577312829
+avg_word_count,-0.04219242271265417
+prev_month_avg_length,0.03382581457693581
+std_word_count,0.028477191174961364
+positive_ratio,0.009840307305218017

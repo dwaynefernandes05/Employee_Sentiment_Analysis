@@ -1,0 +1,76 @@
+{
+  "train_metrics": {
+    "MSE": 0.9782485407393556,
+    "RMSE": 0.9890644775439849,
+    "MAE": 0.7248739145184269,
+    "R2": 0.9431073367497147
+  },
+  "test_metrics": {
+    "MSE": 1.0532482667442993,
+    "RMSE": 1.0262788445370485,
+    "MAE": 0.7431110621742922,
+    "R2": 0.9103486032740186
+  },
+  "feature_coefficients": [
+    {
+      "feature": "message_frequency",
+      "coefficient": 4.070566457929711
+    },
+    {
+      "feature": "negative_ratio",
+      "coefficient": -1.133214861905278
+    },
+    {
+      "feature": "neutral_ratio",
+      "coefficient": -0.9580474577909386
+    },
+    {
+      "feature": "max_word_count",
+      "coefficient": -0.519471554883088
+    },
+    {
+      "feature": "std_message_length",
+      "coefficient": 0.4818768343715622
+    },
+    {
+      "feature": "length_frequency_ratio",
+      "coefficient": -0.42244967039510745
+    },
+    {
+      "feature": "min_word_count",
+      "coefficient": 0.35846424836242075
+    },
+    {
+      "feature": "avg_message_length",
+      "coefficient": 0.15492818700747463
+    },
+    {
+      "feature": "max_message_length",
+      "coefficient": -0.11263943995694495
+    },
+    {
+      "feature": "min_message_length",
+      "coefficient": -0.05741118429218082
+    },
+    {
+      "feature": "prev_month_frequency",
+      "coefficient": -0.04688830577312829
+    },
+    {
+      "feature": "avg_word_count",
+      "coefficient": -0.04219242271265417
+    },
+    {
+      "feature": "prev_month_avg_length",
+      "coefficient": 0.03382581457693581
+    },
+    {
+      "feature": "std_word_count",
+      "coefficient": 0.028477191174961364
+    },
+    {
+      "feature": "positive_ratio",
+      "coefficient": 0.009840307305218017
+    }
+  ]
+}
